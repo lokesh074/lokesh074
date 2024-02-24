@@ -9,6 +9,7 @@ I'm a ECE student, Data Science Enthusiast!
 - 📄 Know more about me in [my Resume](https://drive.google.com/file/d/1V1CLtHnR4Iv1gmKpj7-fjCq5my8vZjI8/view?usp=sharing)
 
 ## 👦 Stats:
+![](https://komarev.com/ghpvc/?username=lokesh074&color=dc143c)
 ![Lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokesh074&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh074&theme=tokyonight)
 ## Connect with me:
