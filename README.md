@@ -8,8 +8,9 @@ I'm a ECE student, Data Science Enthusiast!
 - 📫 How to reach me: 9057Lokeshsharma@gmail.com
 - 📄 Know more about me in [my Resume](https://drive.google.com/file/d/1V1CLtHnR4Iv1gmKpj7-fjCq5my8vZjI8/view?usp=sharing)
 
-## Stats:
+## 👦 Stats:
 ![Lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokesh074&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh074&theme=tokyonight)
 ## Connect with me:
 - [LinkedIn](www.linkedin.com/in/lokesh-sharma9783)
 - [Instagram](https://www.instagram.com/lokesh_iii/?igsh=NmNvZ20zOWY5dDhx)
