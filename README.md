@@ -12,7 +12,8 @@ I'm a ECE student, Data Science Enthusiast!
 ![Lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokesh074&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh074&theme=tokyonight)
 ## 👨‍💻 Connect with me:
-[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/myprofile)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+&nbsp;
 - [Instagram](https://www.instagram.com/lokesh_iii/?igsh=NmNvZ20zOWY5dDhx)
 
 ## GitHub Metrics:
