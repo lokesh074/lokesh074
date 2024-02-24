@@ -9,8 +9,7 @@ I'm a ECE student, Data Science Enthusiast!
 - 📄 Know more about me in [my Resume](https://drive.google.com/file/d/1V1CLtHnR4Iv1gmKpj7-fjCq5my8vZjI8/view?usp=sharing)
 
 ## Stats:
-- Profile visits
-- GitHub stats languages
+[![Lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokesh074)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with me:
 - [LinkedIn](www.linkedin.com/in/lokesh-sharma9783)
