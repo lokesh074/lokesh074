@@ -1,16 +1,28 @@
-### Hi there, I'm Lokesh Sharma 👋
+# Hi there, I'm Lokesh Sharma! 👋
 
-<!--
-**lokesh074/lokesh074** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a ECE student, Data Science Enthusiast!
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning about Generative AI 
+- 👨‍💻 All of my projects are available at [Lokesh074](https://github.com/lokesh074)
+- 💬 Ask me about Python, Data Analysis, Machine Learning, Deep Learning, NLP and Data Visualization.
+- 📫 How to reach me: 9057Lokeshsharma@gmail.com
+- 📄 Know more about me in [my Resume](https://drive.google.com/file/d/1V1CLtHnR4Iv1gmKpj7-fjCq5my8vZjI8/view?usp=sharing)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stats:
+- Profile visits
+- GitHub stats languages
+
+## Connect with me:
+- [LinkedIn](www.linkedin.com/in/lokesh-sharma9783)
+- [Instagram](https://www.instagram.com/lokesh_iii/?igsh=NmNvZ20zOWY5dDhx)
+
+## GitHub Metrics:
+- GitHub trophies
+- GitHub streak stats
+
+## Languages and Tools:
+Python | Pandas | NumPy | Matplotlib | Scikit-learn | TensorFlow | Keras | SQL | Pytorch | Seaborn | llamaindex
+
+## Problem Solving Website Progress:
+c
+
