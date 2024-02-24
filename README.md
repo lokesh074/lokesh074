@@ -10,7 +10,7 @@ I'm a ECE student, Data Science Enthusiast!
 
 ## Stats:
 [![Lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokesh074)](https://github.com/anuraghazra/github-readme-stats)
-
+![Lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokesh074&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ## Connect with me:
 - [LinkedIn](www.linkedin.com/in/lokesh-sharma9783)
 - [Instagram](https://www.instagram.com/lokesh_iii/?igsh=NmNvZ20zOWY5dDhx)
