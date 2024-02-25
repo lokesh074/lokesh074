@@ -27,7 +27,7 @@ I'm a ECE student, Data Science Enthusiast!
 [![My Skills](https://skillicons.dev/icons?i=python,fastapi,linux,postman,pycharm,pytorch&theme=light)](https://skillicons.dev)
 
 <div style="text-align:center;">
-    ![Visitor Count](https://profile-counter.glitch.me/{lokesh074}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{lokesh074}/count.svg)
 </div>
 
 
