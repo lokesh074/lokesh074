@@ -13,7 +13,7 @@ I'm a ECE student, Data Science Enthusiast!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh074&theme=tokyonight)
 ## 👨‍💻 Connect with me:
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokesh-sharma9783)
-[![text](https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=Instagram&logoColor=red)](https://www.instagram.com/lokesh_iii/?igsh=NmNvZ20zOWY5dDhx)
+[![text](https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/lokesh_iii/?igsh=NmNvZ20zOWY5dDhx)
 
 
 ## GitHub Metrics:
