@@ -25,7 +25,6 @@ I'm a ECE student, Data Science Enthusiast!
 
 ##   Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=Python,SQL,Pandas,NumPy,Matplotlib,Scikit-learn,TensorFlow,Keras,Pytorch,Seaborn)](https://skillicons.dev)
-Python | Pandas | NumPy | Matplotlib | Scikit-learn | TensorFlow | Keras | SQL | Pytorch | Seaborn | llamaindex
 
 ## Problem Solving Website Progress:
 c
