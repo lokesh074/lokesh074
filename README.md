@@ -12,9 +12,9 @@ I'm a ECE student, Data Science Enthusiast!
 ![Lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokesh074&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh074&theme=tokyonight)
 ## 👨‍💻 Connect with me:
-[![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (https://www.instagram.com/lokesh_iii/?igsh=NmNvZ20zOWY5dDhx))][2]
-[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (www.linkedin.com/in/lokesh-sharma9783))][4]
-[![github](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github.png (https://github.com/lokesh074))][5]
+[![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][https://www.instagram.com/lokesh_iii/?igsh=NmNvZ20zOWY5dDhx]
+[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][www.linkedin.com/in/lokesh-sharma9783]
+[![github](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github.png (Github))][https://github.com/lokesh074]
 
 
 
