@@ -17,13 +17,14 @@ I'm a ECE student, Data Science Enthusiast!
 [![text](https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=Instagram&logoColor=red)](https://www.instagram.com/lokesh_iii/?igsh=NmNvZ20zOWY5dDhx)
 
 
-## GitHub Metrics:
+## 📊 GitHub Metrics:
 ![Metrics](https://metrics.lecoq.io/lokesh074?template=classic&languages=1&achievements=1¬able=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0¬able.from=organization¬able.repositories=false¬able.indepth=false¬able.types=commit&config.timezone=America%2FNew%20York)
 
 ## 🏆 Github trophies
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lokesh074&theme=tokyonight)
 
 ##   Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=Python,SQL,Pandas,NumPy,Matplotlib,Scikit-learn,TensorFlow,Keras,Pytorch,Seaborn)](https://skillicons.dev)
 Python | Pandas | NumPy | Matplotlib | Scikit-learn | TensorFlow | Keras | SQL | Pytorch | Seaborn | llamaindex
 
 ## Problem Solving Website Progress:
