@@ -23,7 +23,7 @@ I'm a ECE student, Data Science Enthusiast!
 ## 🏆 Github trophies
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kattni)
 
-## Languages and Tools:
+##   Languages and Tools:
 Python | Pandas | NumPy | Matplotlib | Scikit-learn | TensorFlow | Keras | SQL | Pytorch | Seaborn | llamaindex
 
 ## Problem Solving Website Progress:
