@@ -26,9 +26,6 @@ I'm a ECE student, Data Science Enthusiast!
 ##   Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=python,fastapi,linux,postman,pycharm,pytorch&theme=light)](https://skillicons.dev)
 
-<div style="text-align:center;">
-![Visitor Count](https://profile-counter.glitch.me/{lokesh074}/count.svg)
-</div>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lokesh074&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
 
 
