@@ -24,7 +24,7 @@ I'm a ECE student, Data Science Enthusiast!
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lokesh074&theme=tokyonight)
 
 ##   Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=Python,SQL,Pandas,NumPy,Matplotlib,Scikit-learn,TensorFlow,Keras,Pytorch,Seaborn)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 ## Problem Solving Website Progress:
 c
